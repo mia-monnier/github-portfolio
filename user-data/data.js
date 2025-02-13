@@ -1,6 +1,6 @@
 export const bio = [
-  "Hello, I'm Vinay Somawat!",
-  "<strong>Frontend Software Engineer</strong> with 4+ years of experience building scalable, user-focused web applications.",
+  "Hello, I'm Mia Monnier!",
+  "<strong>Game Designer</strong> i have no idea what to put here just yet",
   "Skilled in Angular, TypeScript, and performance optimization, I aim to leverage my expertise in delivering innovative solutions that drive measurable business outcomes.",
   "Passionate about mentoring, teamwork, and continuous improvement in engineering processes.",
 ];
@@ -71,19 +71,19 @@ export const experience = [
   },
 ];
 
-export const trekking = [
-  "<strong>Kheerganga Trek</strong>, Himachal Pradesh (9,711 feet)",
-  "<strong>Triund Trek</strong>, Himachal Pradesh (9,350 feet)",
-  "<strong>Kedarkantha Trek</strong>, Uttarakhand (12,500 feet)",
-  "<strong>Jalori Pass Trek</strong>, Himachal Pradesh (10,800 feet)",
-  "<strong>Vaishno Devi Trek</strong>, Jammu & Kashmir (5,200 feet)",
-];
+//export const trekking = [
+  //"<strong>Kheerganga Trek</strong>, Himachal Pradesh (9,711 feet)",
+  //"<strong>Triund Trek</strong>, Himachal Pradesh (9,350 feet)",
+  //"<strong>Kedarkantha Trek</strong>, Uttarakhand (12,500 feet)",
+ // "<strong>Jalori Pass Trek</strong>, Himachal Pradesh (10,800 feet)",
+  //"<strong>Vaishno Devi Trek</strong>, Jammu & Kashmir (5,200 feet)",
+//];
 
 export const education = [
   {
-    title: "B.Tech. in Computer Science and Engineering",
-    duration: "2016 - 2020",
-    subtitle: "National Institute of Technology, Warangal",
+    title: "Bachelors Degree in Video Game Design",
+    duration: "2021 - 2025",
+    subtitle: "Champlain College",
     details: [],
     tags: [
       "Data Structures & Algorithms",
@@ -96,11 +96,11 @@ export const education = [
     icon: "graduation-cap",
   },
   {
-    title: "Class 12th in Science and Mathematics",
+    title: "",
     duration: "",
-    subtitle: "Board of Secondary Education, Rajasthan",
+    subtitle: "",
     details: [],
-    tags: ["Physics", "Chemistry", "Mathematics"],
+    tags: [""],
     icon: "book",
   },
 ];
