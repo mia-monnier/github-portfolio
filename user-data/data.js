@@ -1,7 +1,7 @@
 export const bio = [
   "Hello, I'm Mia Monnier!",
   "<strong>Game Designer</strong> i have no idea what to put here just yet",
-  "Skilled in Angular, TypeScript, and performance optimization, I aim to leverage my expertise in delivering innovative solutions that drive measurable business outcomes.",
+  "bepis, TypeScript, and performance optimization, I aim to leverage my expertise in delivering innovative solutions that drive measurable business outcomes.",
   "Passionate about mentoring, teamwork, and continuous improvement in engineering processes.",
 ];
 
