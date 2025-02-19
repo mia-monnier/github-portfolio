@@ -157,7 +157,7 @@ export const footer = [
       },
       {
         text: "Github",
-        link: "https://github.com/vinaysomawat/vinaysomawat.github.io",
+          link: "https://github.com/mia-monnier/",
       },
     ],
   },
